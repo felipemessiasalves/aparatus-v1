@@ -1,2 +1,2 @@
-# aparatus-v1
+# aparatus
 app completo para barbearias
